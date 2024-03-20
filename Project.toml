@@ -4,4 +4,5 @@ authors = ["Porpun "]
 version = "0.1.0"
 
 [deps]
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
