@@ -17,7 +17,7 @@ function generateSomePlots2D()
 
     plot!(ps, cos)
 
-    fPlot = plot(ps, p1, plot(f), parabola)
+    fPlot = plot(ps, p1, plot(f), parabola; layout=@layout[a a a; a])
     fPlot
 end
 
